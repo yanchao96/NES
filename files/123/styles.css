@@ -1,0 +1,155 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-86px;
+  width:896px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u221_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:779px;
+}
+#u221 {
+  border-width:0px;
+  position:absolute;
+  left:86px;
+  top:217px;
+  width:375px;
+  height:779px;
+  display:flex;
+}
+#u221 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u221_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u222_img {
+  border-width:0px;
+  position:absolute;
+  left:-6px;
+  top:0px;
+  width:52px;
+  height:52px;
+}
+#u222 {
+  border-width:0px;
+  position:absolute;
+  left:407px;
+  top:305px;
+  width:40px;
+  height:40px;
+  display:flex;
+  font-size:12px;
+  color:#FFFFFF;
+}
+#u222 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u222_img.mouseDown {
+}
+#u222.mouseDown {
+}
+#u222_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u223_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:779px;
+}
+#u223 {
+  border-width:0px;
+  position:absolute;
+  left:607px;
+  top:217px;
+  width:375px;
+  height:779px;
+  display:flex;
+}
+#u223 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u223_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u224 {
+  border-width:0px;
+  position:absolute;
+  left:427px;
+  top:345px;
+  width:0px;
+  height:0px;
+}
+#u224_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:10px;
+  height:223px;
+}
+#u224_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:-5px;
+  top:213px;
+  width:177px;
+  height:10px;
+}
+#u224_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:157px;
+  top:208px;
+  width:20px;
+  height:20px;
+}
+#u224_text {
+  border-width:0px;
+  position:absolute;
+  left:-50px;
+  top:187px;
+  width:100px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
