@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u506_img {
+#u521_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:1920px;
   height:915px;
 }
-#u506 {
+#u521 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:915px;
   display:flex;
 }
-#u506 .text {
+#u521 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u506_text {
+#u521_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u507_img {
+#u522_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -54,7 +54,7 @@
   width:2px;
   height:51px;
 }
-#u507 {
+#u522 {
   border-width:0px;
   position:absolute;
   left:1300px;
@@ -63,20 +63,20 @@
   height:50px;
   display:flex;
 }
-#u507 .text {
+#u522 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u507_text {
+#u522_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u508_img {
+#u523_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -84,7 +84,7 @@
   width:1681px;
   height:826px;
 }
-#u508 {
+#u523 {
   border-width:0px;
   position:absolute;
   left:239px;
@@ -94,20 +94,20 @@
   display:flex;
   opacity:0.5;
 }
-#u508 .text {
+#u523 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u508_text {
+#u523_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u509_div {
+#u524_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -125,7 +125,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u509 {
+#u524 {
   border-width:0px;
   position:absolute;
   left:840px;
@@ -134,20 +134,20 @@
   height:234px;
   display:flex;
 }
-#u509 .text {
+#u524 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u509_text {
+#u524_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u510_div {
+#u525_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -163,7 +163,7 @@
   box-shadow:none;
   font-size:28px;
 }
-#u510 {
+#u525 {
   border-width:0px;
   position:absolute;
   left:872px;
@@ -173,19 +173,19 @@
   display:flex;
   font-size:28px;
 }
-#u510 .text {
+#u525 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u510_text {
+#u525_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u511_div {
+#u526_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -202,7 +202,7 @@
   font-size:20px;
   color:#7F7F7F;
 }
-#u511 {
+#u526 {
   border-width:0px;
   position:absolute;
   left:872px;
@@ -213,19 +213,19 @@
   font-size:20px;
   color:#7F7F7F;
 }
-#u511 .text {
+#u526 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u511_text {
+#u526_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u512_div {
+#u527_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -244,7 +244,7 @@
   box-shadow:none;
   font-size:18px;
 }
-#u512 {
+#u527 {
   border-width:0px;
   position:absolute;
   left:1125px;
@@ -254,19 +254,19 @@
   display:flex;
   font-size:18px;
 }
-#u512 .text {
+#u527 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u512_text {
+#u527_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u513_div {
+#u528_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -282,7 +282,7 @@
   box-shadow:none;
   font-size:18px;
 }
-#u513 {
+#u528 {
   border-width:0px;
   position:absolute;
   left:1255px;
@@ -292,14 +292,14 @@
   display:flex;
   font-size:18px;
 }
-#u513 .text {
+#u528 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u513_text {
+#u528_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
